@@ -24,4 +24,4 @@ My name is Pavel and I'm a Junior Java Developer. I really enjoy learning new te
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://bmc.link/pavelshelya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/pavelshelya" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/pavelshelya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/pavelshelya" /></a></p><br><br>
