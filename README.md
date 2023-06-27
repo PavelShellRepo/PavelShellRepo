@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel!
 ===============================================================================================================================
 
-Java Software Developer!
+Java Software Developer
 -----------------------
 
 My name is Pavel and I'm a Junior Java Developer. I really enjoy learning new technologies and enjoy backend development, so I'm learning the Java language and frameworks like Spring to expand my skill set in this area. I am also interested in frontend development and am studying it in my spare time.
