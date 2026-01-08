@@ -1,19 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel!
 ===============================================================================================================================
 
-## 🚀 Software Engineer & Tech Enthusiast
+## 🚀 Java Developer & QA Engineer
 
-I'm Pavel, a passionate software engineer dedicated to building clean, maintainable solutions and exploring modern technologies across the development stack. I focus on backend development and web frameworks, while continuously learning about system design, best practices, and full-stack development.
+I'm Pavel, a Java developer with a strong QA mindset, focused on building reliable, testable, and maintainable software. I work at the intersection of backend development and quality assurance, paying close attention to how systems behave in real-world conditions.
 
 ---
 
 ## 📍 About Me
 
-- 🌍 Based in Ukraine
-- 📧 Contact me at [pavelshelya93@gmail.com](mailto:pavelshelya93@gmail.com)
-- 🧠 Currently learning Backend Development, API Design, Database Architecture
-- 🤝 Open to collaborating on interesting projects and learning opportunities
-- 💡 Passionate about writing clean code and understanding how things work under the hood
+- 🌍 Based in Ukraine  
+- 📧 Contact me at [pavelshelya93@gmail.com](mailto:pavelshelya93@gmail.com)  
+- 🧠 Currently learning Java Backend Development, Software Testing, API Quality  
+- 🤝 Open to collaborating on development and QA-focused projects  
+- 💡 Interested in how software breaks, why it breaks, and how to prevent it  
 
 ---
 
@@ -27,24 +27,22 @@ I'm Pavel, a passionate software engineer dedicated to building clean, maintaina
 
 ## ⚙️ Languages and Tools
 
-| Python | Django | FastAPI | PostgreSQL | HTML5 | CSS3 | Git | Linux | Postman |
-|--------|--------|---------|-----------|-------|------|-----|-------|---------|
-| [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org) | [![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg)](https://www.djangoproject.com/) | [![FastAPI](https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg)](https://fastapi.tiangolo.com/) | [![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org) | [![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/) | [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/) | [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) | [![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/) | [![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com) |
+| Java | Spring | SQL | PostgreSQL | JUnit | Selenium | Git | Linux | Postman |
+|------|--------|-----|-----------|-------|----------|-----|-------|---------|
+| [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.oracle.com/java/) | [![Spring](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg)](https://spring.io/) | [![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://en.wikipedia.org/wiki/SQL) | [![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org) | [![JUnit](https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg)](https://junit.org/) | [![Selenium](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg)](https://www.selenium.dev/) | [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) | [![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/) | [![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com) |
 
 ---
 
 ## 💼 Professional Interests
 
-- 🔐 Software architecture and scalability patterns
-- 📊 Data persistence and optimization strategies
-- 🛠️ Development tools and workflow automation
-- 🌐 RESTful API design and implementation
-- 📚 Code quality, testing, and maintenance practices
+- 🧪 Software testing strategies and quality assurance  
+- ⚙️ Java backend development and application architecture  
+- 🔍 API testing, validation, and edge cases  
+- 📊 Databases, data consistency, and error handling  
+- 📚 Clean code, test coverage, and long-term maintainability  
 
 ---
 
 ## ☕ Support
 
-If you like my work, you can support me by buying me a coffee!
-
-[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/pavelshelya)
+If you like my work, you can support me by buying me a coffee![![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/pavelshelya)
