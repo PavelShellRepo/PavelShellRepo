@@ -45,4 +45,4 @@ I'm Pavel, a Java developer with a strong QA mindset, focused on building reliab
 
 ## ☕ Support
 
-If you like my work, you can support me by buying me a coffee![![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/pavelshelya)
+If you like my work, you can support me by buying me a coffee![![Buy me a coffee](https://www.buymeacoffee.com/pavelshelya)
