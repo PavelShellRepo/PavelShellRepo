@@ -43,4 +43,11 @@ I'm Pavel, a Java developer with a strong QA mindset, focused on building reliab
 
 ---
 
+## ☕ Support
+
+If you like my work, you can support me by buying me a coffee ☕  
+https://www.buymeacoffee.com/pavelshelya- 📚 Clean code, test coverage, and long-term maintainability  
+
+---
+
 ☕ Support me: https://www.buymeacoffee.com/your_username
